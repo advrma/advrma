@@ -1,102 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:84CC16,100:0D1117&height=190&section=header&text=Aditya%20Verma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=16" />
-
-# 👋 Hey, I'm Aditya
-
-<table>
-<tr>
-<td align="center" width="260">
-  <b>AI Products</b>
-  <br/>
-  LLMs, RAG, agents, semantic search
-</td>
-<td align="center" width="260">
-  <b>Full-Stack Systems</b>
-  <br/>
-  Next.js, APIs, databases, cloud
-</td>
-<td align="center" width="260">
-  <b>Product Design</b>
-  <br/>
-  Premium UX, clean interfaces, fast flows
-</td>
-</tr>
-</table>
+<a href="https://adivrma.com">
+  <img src="assets/header.svg" width="100%" alt="Aditya Verma — AI Engineer, Full-Stack Developer, Product Builder" />
+</a>
 
 <br/>
 
-🔭 Currently building **AI-powered platforms and intelligent developer tools**  
-🧠 Interested in **LLMs, RAG, semantic search, distributed systems, and product engineering**  
-⚡ I enjoy **shipping fast, solving hard problems, and making software feel premium**  
-🎯 Goal: **build useful technology that feels simple, intelligent, and beautifully designed**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=A3E635&center=true&vCenter=true&width=800&lines=AI+Engineer+%E2%9C%A6+Full-Stack+Developer;Building+AI-native+products+from+0+%E2%86%92+1;Next.js+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Cloud;Learning+fast.+Shipping+faster." alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-## 📊 GitHub Dashboard
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=averm118&bg_color=0D1117&color=A3E635&line=A3E635&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+<img src="https://komarev.com/ghpvc/?username=ADVRMA&label=PROFILE%20VIEWS&color=84cc16&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
 
 <br/><br/>
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=averm118&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=FFFFFF" />
-<img width="44%" src="https://quickchart.io/chart?width=420&height=260&format=svg&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27AI%20%2F%20ML%27%2C%27Full-Stack%27%2C%27Backend%27%2C%27Cloud%27%2C%27DevOps%27%2C%27Design%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B30%2C25%2C18%2C12%2C8%2C7%5D%2CbackgroundColor%3A%5B%27%23A3E635%27%2C%27%2322D3EE%27%2C%27%23A78BFA%27%2C%27%23FACC15%27%2C%27%23FB7185%27%2C%27%2334D399%27%5D%2CborderColor%3A%27%230D1117%27%2CborderWidth%3A4%7D%5D%7D%2Coptions%3A%7BcutoutPercentage%3A62%2Clegend%3A%7Bposition%3A%27bottom%27%2Clabels%3A%7BfontColor%3A%27%23FFFFFF%27%2CfontSize%3A12%2Cpadding%3A14%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Focus%20Areas%27%2CfontColor%3A%27%23A3E635%27%2CfontSize%3A18%7D%7D%7D" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=averm118&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=FFFFFF&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=averm118&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=9CA3AF" />
-
-</div>
-
-
-<div align="center">
-
-## ⚡ Core Stack
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,supabase,postgres,tailwind,aws,docker,git&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,java,cpp,mongodb,firebase,azure,vercel,figma,github&theme=dark" />
-
-</div>
-
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
+<!-- ───────────────────────── 01 · ABOUT ───────────────────────── -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/averm118/averm118/output/snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/averm118/averm118/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/title-about-light.svg" />
+  <img src="assets/title-about.svg" width="100%" alt="About Me" />
 </picture>
 
-</div>
-
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/adityavrma">
-  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:averm118@asu.edu">
-  <img src="https://img.shields.io/badge/Email-averm118%40asu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="assets/about.svg" width="100%" alt="About Aditya" />
 
 <br/><br/>
 
-### “Build fast. Learn deeply. Ship beautifully.”
+<!-- ───────────────────────── 02 · WHAT I BUILD ───────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/title-work-light.svg" />
+  <img src="assets/title-work.svg" width="100%" alt="What I Build" />
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:84CC16,100:0D1117&height=120&section=footer" />
+<img src="assets/cards.svg" width="100%" alt="AI Products · Full-Stack Systems · Product Design" />
+
+<br/><br/>
+
+<!-- ───────────────────────── 03 · FEATURED BUILDS ───────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/title-projects-light.svg" />
+  <img src="assets/title-projects.svg" width="100%" alt="Featured Builds" />
+</picture>
+
+<a href="https://adivrma.com"><img src="assets/project-nowline.svg" width="49%" alt="Nowline" /></a>
+<a href="https://adivrma.com"><img src="assets/project-aimesh.svg" width="49%" alt="AI Mesh" /></a>
+<a href="https://nocturne-board.vercel.app"><img src="assets/project-nocturne.svg" width="49%" alt="Nocturne" /></a>
+<a href="https://github.com/Sunhacks-2026/SmallSQL"><img src="assets/project-smallsql.svg" width="49%" alt="SmallSQL" /></a>
+<a href="https://adivrma.com"><img src="assets/project-splitz.svg" width="49%" alt="Splitz" /></a>
+<a href="https://adivrma.com"><img src="assets/project-portfolio.svg" width="49%" alt="adivrma.com" /></a>
+
+<br/><br/>
+
+<!-- ───────────────────────── 04 · GITHUB DASHBOARD ───────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/title-dashboard-light.svg" />
+  <img src="assets/title-dashboard.svg" width="100%" alt="GitHub Dashboard" />
+</picture>
+
+<!-- 3D contribution city — generated daily by .github/workflows/profile-3d.yml -->
+<img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ADVRMA&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A3E635&icon_color=A3E635&text_color=E6EDF3&ring_color=A3E635&custom_title=GitHub%20Stats" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=ADVRMA&hide_border=true&background=0D1117&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideLabels=A3E635&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E&stroke=1E2A22" alt="GitHub streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADVRMA&layout=compact&langs_count=6&card_width=495&hide_border=true&bg_color=0D1117&title_color=A3E635&text_color=E6EDF3" alt="Top languages" />
+<img width="49%" src="assets/focus.svg" alt="Focus areas" />
+
+<br/><br/>
+
+<!-- ───────────────────────── 05 · TECH STACK ───────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/title-stack-light.svg" />
+  <img src="assets/title-stack.svg" width="100%" alt="Tech Stack" />
+</picture>
+
+<sub><b><code>LANGUAGES</code></b></sub><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,swift&theme=dark" alt="Languages" />
+
+<sub><b><code>FRONTEND &amp; DESIGN</code></b></sub><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" alt="Frontend" />
+
+<sub><b><code>BACKEND &amp; DATA</code></b></sub><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,mongodb,firebase&theme=dark" alt="Backend" />
+
+<sub><b><code>AI / ML</code></b></sub><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and ML" />
+
+<sub><b><code>CLOUD &amp; TOOLING</code></b></sub><br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,vercel,git,github&theme=dark" alt="Cloud and tooling" />
+
+<br/><br/>
+
+<!-- ───────────────────────── 06 · SNAKE ───────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/title-snake-light.svg" />
+  <img src="assets/title-snake.svg" width="100%" alt="Contribution Snake" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADVRMA/ADVRMA/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADVRMA/ADVRMA/output/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ADVRMA/ADVRMA/output/snake-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- ───────────────────────── 07 · CONNECT ───────────────────────── -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/title-connect-light.svg" />
+  <img src="assets/title-connect.svg" width="100%" alt="Let's Connect" />
+</picture>
+
+<a href="https://adivrma.com"><img src="assets/btn-portfolio.svg" width="32%" alt="Portfolio — adivrma.com" /></a>
+<a href="https://www.linkedin.com/in/adityavrma"><img src="assets/btn-linkedin.svg" width="32%" alt="LinkedIn — Aditya Verma" /></a>
+<a href="mailto:averm118@asu.edu"><img src="assets/btn-email.svg" width="32%" alt="Email — averm118@asu.edu" /></a>
+
+<br/><br/>
+
+<img src="assets/footer.svg" width="100%" alt="Build fast. Learn deeply. Ship beautifully." />
 
 </div>
