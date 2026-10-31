@@ -46,7 +46,7 @@
 <rect x="1" y="1" width="758" height="314" rx="18" fill="#0F161D" stroke="#1E2A22" stroke-width="1.5"/>
 <rect x="1" y="1" width="758" height="314" rx="18" fill="url(#cityglow)"/>
 <text x="26" y="38" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" fill="#E6EDF3">Contribution City</text>
-<text x="26" y="58" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#8B949E" letter-spacing="0.5">last 12 months · updated Oct 30, 2026</text>
+<text x="26" y="58" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#8B949E" letter-spacing="0.5">last 12 months · updated Oct 31, 2026</text>
 <text x="584" y="298" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8B949E">less</text>
 <rect x="618" y="288" width="12" height="12" rx="3" fill="#161B22"/>
 <rect x="634" y="288" width="12" height="12" rx="3" fill="#1A3B0F"/>
@@ -69,6 +69,7 @@
 <polygon points="703.4,173.4 709.0,178.4 709.0,178.4 703.4,173.4" fill="#0E2008"><animate attributeName="points" values="703.4,173.4 709.0,178.4 709.0,178.4 703.4,173.4;703.4,173.4 709.0,178.4 709.0,171.9 703.4,166.9" dur="0.7s" begin="2.06s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></polygon>
 <polygon points="709.0,178.4 718.8,176.9 718.8,176.9 709.0,178.4" fill="#132C0B"><animate attributeName="points" values="709.0,178.4 718.8,176.9 718.8,176.9 709.0,178.4;709.0,178.4 718.8,176.9 718.8,170.5 709.0,171.9" dur="0.7s" begin="2.06s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></polygon>
 <polygon points="703.4,173.4 713.2,172.0 718.8,176.9 709.0,178.4" fill="#1A3B0F"><animate attributeName="points" values="703.4,173.4 713.2,172.0 718.8,176.9 709.0,178.4;703.4,166.9 713.2,165.5 718.8,170.5 709.0,171.9" dur="0.7s" begin="2.06s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></polygon>
+<polygon points="710.4,179.6 720.2,178.2 725.8,183.1 716.0,184.6" fill="#161B22"/>
 <polygon points="656.2,144.2 661.8,149.2 661.8,149.2 656.2,144.2" fill="#597E1D"><animate attributeName="points" values="656.2,144.2 661.8,149.2 661.8,149.2 656.2,144.2;656.2,144.2 661.8,149.2 661.8,128.4 656.2,123.5" dur="0.7s" begin="2.03s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></polygon>
 <polygon points="661.8,149.2 671.6,147.7 671.6,147.7 661.8,149.2" fill="#7AAC27"><animate attributeName="points" values="661.8,149.2 671.6,147.7 671.6,147.7 661.8,149.2;661.8,149.2 671.6,147.7 671.6,127.0 661.8,128.4" dur="0.7s" begin="2.03s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></polygon>
 <polygon points="656.2,144.2 666.0,142.8 671.6,147.7 661.8,149.2" fill="#A3E635"><animate attributeName="points" values="656.2,144.2 666.0,142.8 671.6,147.7 661.8,149.2;656.2,123.5 666.0,122.0 671.6,127.0 661.8,128.4" dur="0.7s" begin="2.03s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></polygon>
