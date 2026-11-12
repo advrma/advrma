@@ -46,7 +46,7 @@
 <rect x="1" y="1" width="758" height="314" rx="18" fill="#0F161D" stroke="#1E2A22" stroke-width="1.5"/>
 <rect x="1" y="1" width="758" height="314" rx="18" fill="url(#cityglow)"/>
 <text x="26" y="38" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="800" fill="#E6EDF3">Contribution City</text>
-<text x="26" y="58" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#8B949E" letter-spacing="0.5">last 12 months · updated Nov 11, 2026</text>
+<text x="26" y="58" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#8B949E" letter-spacing="0.5">last 12 months · updated Nov 12, 2026</text>
 <text x="584" y="298" font-family="'JetBrains Mono', 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8B949E">less</text>
 <rect x="618" y="288" width="12" height="12" rx="3" fill="#161B22"/>
 <rect x="634" y="288" width="12" height="12" rx="3" fill="#1A3B0F"/>
@@ -63,6 +63,7 @@
 <polygon points="689.4,161.0 695.0,166.0 695.0,166.0 689.4,161.0" fill="#223509"><animate attributeName="points" values="689.4,161.0 695.0,166.0 695.0,166.0 689.4,161.0;689.4,161.0 695.0,166.0 695.0,155.8 689.4,150.9" dur="0.7s" begin="2.06s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></polygon>
 <polygon points="695.0,166.0 704.8,164.5 704.8,164.5 695.0,166.0" fill="#2F490D"><animate attributeName="points" values="695.0,166.0 704.8,164.5 704.8,164.5 695.0,166.0;695.0,166.0 704.8,164.5 704.8,154.4 695.0,155.8" dur="0.7s" begin="2.06s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></polygon>
 <polygon points="689.4,161.0 699.2,159.6 704.8,164.5 695.0,166.0" fill="#3F6212"><animate attributeName="points" values="689.4,161.0 699.2,159.6 704.8,164.5 695.0,166.0;689.4,150.9 699.2,149.4 704.8,154.4 695.0,155.8" dur="0.7s" begin="2.06s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></polygon>
+<polygon points="696.4,167.2 706.2,165.8 711.8,170.7 702.0,172.2" fill="#161B22"/>
 <polygon points="656.2,144.2 666.0,142.8 671.6,147.7 661.8,149.2" fill="#161B22"/>
 <polygon points="663.2,150.4 673.0,149.0 678.6,153.9 668.8,155.4" fill="#161B22"/>
 <polygon points="670.2,156.6 680.0,155.2 685.6,160.1 675.8,161.6" fill="#161B22"/>
